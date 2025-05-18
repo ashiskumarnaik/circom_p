@@ -1,0 +1,11 @@
+# Ignore build artifacts and generated files
+multiply_js/
+multiply.r1cs
+multiply.sym
+multiply.wasm
+witness.wtns
+*.zkey
+*.json
+*.log
+node_modules/
+.env
